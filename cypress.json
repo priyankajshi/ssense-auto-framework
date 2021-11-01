@@ -1,0 +1,12 @@
+{
+  "defaultCommandTimeout": 20000,
+  "requestTimeout": 20000,
+  "pageLoadTimeout": 100000,
+  "chromeWebSecurity": false,
+  "screenshotOnRunFailure": true,
+  "video": true,
+  "viewportHeight": 900,
+  "viewportWidth": 1200,
+  "videoUploadOnPasses": false,
+  "baseUrl": "https://www.saucedemo.com"
+}
